@@ -1,59 +1,86 @@
-# 👨🏼‍💻 Gowhith Gandem
+# Hi, I'm Gowhith Gandem
 
-**`Programmer (Developer/Knowledge Explorer)`**
+### Software Engineer | Backend Systems | AI/ML | Distributed Systems
 
-Hey! Happy to see you! here. I'm a Software Engineer and Machine learning enthusiast currently pursuing my Master's in Data Science at Stony Brook University
-.I earned my Bachelor of Technology in Computer Science and Engineering (AI & ML) from CVR College of Engineering.  
+I’m a Master’s student in Data Science at **Stony Brook University**, with a background in **Computer Science and Engineering specializing in AI & ML** from **CVR College of Engineering**.
+
+I enjoy building reliable backend systems, AI-powered applications, distributed systems, and performance-focused software that solves real problems.
 
 ---
 
-### 🧰 Technical Skills
+## About Me
 
-</div>
-<div style="display: flex; flex-direction: column; gap: 20px; font-family: sans-serif;">
+- 🎓 M.S. in Data Science at **Stony Brook University**
+- 💻 Interested in **Backend Engineering, Distributed Systems, AI/ML Systems, and Cloud Infrastructure**
+- 🧠 Strong foundation in **Data Structures, Algorithms, Databases, Operating Systems, Computer Networks, NLP, and Distributed Systems**
+- ⚙️ I like building systems that are **scalable, reliable, and useful in real-world situations**
+- 🎯 Currently looking for **New Grad Software Engineering opportunities**
 
-  <!-- Languages -->
-  <div>
-    <div style="display: flex; align-items: center; gap: 10px; margin: 10px 0;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="C/C++" width="40" height="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40">
-    </div>
-  </div>
+---
 
-  <!-- Technologies/Tools -->
-  <div>
-    <div style="display: flex; align-items: center; gap: 10px; margin: 10px 0;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.JS" width="40" height="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.JS" width="40" height="40">
-      <!-- If you have an official Next.JS icon, replace the URL below -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.JS" width="40" height="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="Angular JS" width="40" height="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="40" height="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40">
-      <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Pandas Logo" width="40" height="40" />
-      <img src="https://cdn.worldvectorlogo.com/logos/matplotlib-1.svg" alt="Matplotlib Logo" width="40" height="40" />
-      <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="Seaborn Logo" width="40" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Platform" width="40" height="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40">
-    </div>
-  </div>
+## 🧰 Tech Stack
 
-  <!-- Databases -->
-  <div>
-    <div style="display: flex; align-items: center; gap: 10px; margin: 10px 0;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40">
-    </div>
-  </div>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-</div>
-<details>
- <summary><h3> Gowhith's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself development with a dream to build my own apps, but that soon got overshadowed by my desire to excel in python. A desire that landed me for Master's in Great Tech Nation upon Bachleor's. However, I had another desire I had been pursuing throughout this time - Gain as much Knowlege as I can History,Present,Future. When I start coding my thougths will be like Mike Tyson in Fighting Ring, Current obsession Summer Intern 2025.
+### Backend & Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### AI / ML / Data
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Cloud, DevOps & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### Databases & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+## 🔥 What I Like Building
+
+- High-performance backend APIs and microservices
+- Distributed systems using consensus algorithms like **Raft**
+- AI-powered document retrieval and RAG systems
+- Cloud-deployed applications with Docker and CI/CD
+- Systems where latency, reliability, and scalability matter
+
+---
+
+## 🌱 Coding Journey
+
+I started coding as a curious computer science student who wanted to understand how real software works behind the scenes.
+
+Over time, that curiosity became a serious interest in backend engineering, distributed systems, AI/ML systems, and cloud infrastructure. I enjoy connecting theory with implementation, whether it is building a consensus algorithm, designing REST APIs, optimizing latency, or creating LLM-powered applications.
+
+I believe strong engineering is not just about writing code. It is about understanding the problem, designing clean systems, thinking about users, and building software that can handle real-world pressure.
+
+My current goal is to keep growing as a software engineer and contribute to impactful products at scale.
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gowhith%20Gandem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowhith/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Gowhith%20Gandem-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/GowhithGandem12/)
+[![Email](https://img.shields.io/badge/Email-ggowhith@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ggowhith@gmail.com)
